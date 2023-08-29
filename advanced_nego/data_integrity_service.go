@@ -6,7 +6,7 @@ import (
 	"crypto/rand"
 	"errors"
 	"fmt"
-	"github.com/sijms/go-ora/network/security"
+	"github.com/robstradling/go-ora/network/security"
 	"math/big"
 )
 

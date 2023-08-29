@@ -10,13 +10,13 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"github.com/sijms/go-ora/trace"
+	"github.com/robstradling/go-ora/trace"
 	"net"
 	"reflect"
 	"strings"
 	"time"
 
-	"github.com/sijms/go-ora/converters"
+	"github.com/robstradling/go-ora/converters"
 )
 
 type Data interface {

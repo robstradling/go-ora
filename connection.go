@@ -6,9 +6,9 @@ import (
 	"database/sql/driver"
 	"errors"
 	"fmt"
-	"github.com/sijms/go-ora/advanced_nego"
-	"github.com/sijms/go-ora/converters"
-	"github.com/sijms/go-ora/network"
+	"github.com/robstradling/go-ora/advanced_nego"
+	"github.com/robstradling/go-ora/converters"
+	"github.com/robstradling/go-ora/network"
 	"strconv"
 )
 
